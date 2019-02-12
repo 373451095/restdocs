@@ -1,0 +1,6 @@
+[source,http,options="nowrap"]
+----
+GET /user?page=2&per_page=100 HTTP/1.1
+Host: localhost:8080
+
+----

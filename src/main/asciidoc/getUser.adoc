@@ -1,0 +1,11 @@
+.url
+include::{snippets}/getUser/curl-request.adoc[]
+
+.request
+include::{snippets}/getUser/http-request.adoc[]
+
+.response
+include::{snippets}/getUser/http-response.adoc[]
+
+.返回值字段
+include::{snippets}/getUser/response-fields.adoc[]

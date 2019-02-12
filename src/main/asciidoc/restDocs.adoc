@@ -1,0 +1,7 @@
+
+
+.request
+include::{snippets}/restDocs/http-request.adoc[]
+
+.response
+include::{snippets}/restDocs/http-response.adoc[]

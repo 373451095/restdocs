@@ -1,0 +1,10 @@
+|===
+|Parameter|Description
+
+|`+page+`
+|the user's page
+
+|`+per_page+`
+|the user's per_page
+
+|===
